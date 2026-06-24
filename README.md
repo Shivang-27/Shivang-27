@@ -2,10 +2,9 @@
 
 📊 Learning Data Science through hands-on projects — currently exploring machine learning with Python, numpy, pandas, and scikit-learn
 
-🔭 Building prediction models using Random Forest and other regression models on real-world Kaggle datasets, including:
+🔭 Building prediction models using regression, classifiers and other models on real-world Kaggle datasets, including:
 - FIFA match outcome predictor
 - Cricket match predictor
-- Car price predictor
 - Student grade predictor
 
 🌱 Currently improving my data visualization skills (EDA, feature importance, confusion matrices)
