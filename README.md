@@ -4,7 +4,7 @@
 
 🔭 Building prediction models using regression, classifiers and other models on real-world Kaggle datasets, including:
 - FIFA match outcome predictor
-- Cricket match predictor
+- Car price predictor
 - Student grade predictor
 
 🌱 Currently improving my data visualization skills (EDA, feature importance, confusion matrices)
